@@ -162,17 +162,3 @@ The best performing model is automatically identified and highlighted in the ana
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👤 Author
-
-**dude**
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-## ⭐ Acknowledgments
-
-- Dataset source: UCI Machine Learning Repository / Kaggle
-- Traffic data from Minnesota Department of Transportation
-- Weather data from OpenWeatherMap
