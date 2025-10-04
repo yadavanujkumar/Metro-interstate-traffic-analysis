@@ -85,11 +85,15 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# Models
-*.h5
-*.pkl
-*.joblib
-models/
+# Models (large files - exclude from git)
+dnn_model.h5
+lstm_model.h5
+random_forest_model.pkl
+xgboost_model.pkl
+gradient_boosting_model.pkl
+
+# Keep scaler for production
+!scaler.pkl
 
 # Data
 *.csv.gz
